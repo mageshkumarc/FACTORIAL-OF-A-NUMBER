@@ -64,6 +64,9 @@ END
 
 **Output:**  
 
+<img width="1919" height="257" alt="MAGESH KUMAR C 212224060143 FACTORIAL IP" src="https://github.com/user-attachments/assets/94be1607-45a4-4a82-ba2b-e145f62d7f18" />
+
+
 <img width="1917" height="265" alt="MAGESH KUMAR C 212224060143 FACTORIAL OP" src="https://github.com/user-attachments/assets/3404bcde-b6ff-4d7c-9b6c-8bab07152170" />
 
 <br>
