@@ -64,6 +64,8 @@ END
 
 **Output:**  
 
+<img width="1917" height="265" alt="MAGESH KUMAR C 212224060143 FACTORIAL OP" src="https://github.com/user-attachments/assets/3404bcde-b6ff-4d7c-9b6c-8bab07152170" />
+
 <br>
 <br>
 <br>
@@ -71,6 +73,8 @@ END
 
 
 **Manual Calculations:**  
+
+![WhatsApp Image 2025-10-23 at 09 01 01_45fd56e8](https://github.com/user-attachments/assets/2f2531e5-d12c-4aec-8caa-ef324761651d)
 
 <br>
 <br>
